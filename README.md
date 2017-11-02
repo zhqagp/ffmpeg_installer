@@ -30,7 +30,7 @@ wget http://mirror.ffmpeginstaller.com/old/scripts/ffmpeg8/ffmpeginstaller.8.0.t
 
 ````
 
-按以下方式即可，源文件以及托管到七牛
+按以下方式即可，源文件已经托管到七牛
 ````sh
 
 cd ffmpeginstaller.8.0
